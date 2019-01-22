@@ -1,9 +1,9 @@
 <?php 
 
 $host = 'db4free.net';
-$username = 'root_ecommdb';
-$password = 'root_ecommdb';
-$dbname = 'ecomm_db';
+$username = 'ecommdb_roots';
+$password = 'ecommdb_roots';
+$dbname = 'ecomms_dbs';
 
 
 
