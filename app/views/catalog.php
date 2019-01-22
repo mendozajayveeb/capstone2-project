@@ -78,7 +78,7 @@
 					foreach ($items as $item) { ?>
 						<div class="col-sm-3 ">
 							<div class="card h-100">
-								<img class="card-img-top" src="<?php echo $item['image_path']; ?>">
+								<img class="card-img-top" src="<?php echo $item['img_path']; ?>">
 								<div class="card-body">
 									<h4 class="card-title">
 										<?php echo $item['name']; ?>

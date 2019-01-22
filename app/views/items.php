@@ -22,7 +22,7 @@
 			 ?>
 				<div class="col-sm-3 py-2">
 					<div class="card h-100">
-						<img src="<?php echo $item['image_path']; ?>" class="card-img-top">
+						<img src="<?php echo $item['img_path']; ?>" class="card-img-top">
 						<div class="card-body">
 							<h4 class="card-title"> <?php echo $item['name']; ?></h4>
 							<p class="card-text"><?php echo $item['description']; ?></p>
